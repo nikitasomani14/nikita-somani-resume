@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nikitasomani14.github.io/nikita-somani-resume/sitemap.xml
